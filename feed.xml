@@ -3,12 +3,33 @@
     <title>Miller Bridge</title>
     <link href="https://miller-bridge-site.pages.dev/feed.xml" rel="self" />
     <link href="https://miller-bridge-site.pages.dev" />
-    <updated>2022-12-26T15:54:38-05:00</updated>
+    <updated>2022-12-29T04:37:38-05:00</updated>
     <author>
         <name>Ryan Miller</name>
     </author>
     <id>https://miller-bridge-site.pages.dev</id>
 
+    <entry>
+        <title>Bid Table</title>
+        <author>
+            <name>Ryan Miller</name>
+        </author>
+        <link href="https://miller-bridge-site.pages.dev/bid-table.html"/>
+        <id>https://miller-bridge-site.pages.dev/bid-table.html</id>
+
+        <updated>2022-12-29T04:37:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Current Bids
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Current Bids</h3>
+<div class="post__iframe"><iframe loading="lazy" width="880" height="514" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bid information</title>
         <author>

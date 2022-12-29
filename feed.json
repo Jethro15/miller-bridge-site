@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://miller-bridge-site.pages.dev/bid-table.html",
+            "url": "https://miller-bridge-site.pages.dev/bid-table.html",
+            "title": "Bid Table",
+            "summary": "Current Bids",
+            "content_html": "<h3>Current Bids</h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"880\" height=\"514\" src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false\"></iframe></div>",
+            "author": {
+                "name": "Ryan Miller"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-26T15:14:24-05:00",
+            "date_modified": "2022-12-29T04:37:38-05:00"
+        },
+        {
             "id": "https://miller-bridge-site.pages.dev/bid-information.html",
             "url": "https://miller-bridge-site.pages.dev/bid-information.html",
             "title": "Bid information",
