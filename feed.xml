@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Miller Bridge</title>
-    <link href="https://miller-bridge.com/feed.xml" rel="self" />
-    <link href="https://miller-bridge.com" />
+    <link href="https://miller-bridge-site.pages.dev/feed.xml" rel="self" />
+    <link href="https://miller-bridge-site.pages.dev" />
     <updated>2022-12-26T15:54:38-05:00</updated>
     <author>
         <name>Ryan Miller</name>
     </author>
-    <id>https://miller-bridge.com</id>
+    <id>https://miller-bridge-site.pages.dev</id>
 
     <entry>
         <title>Bid information</title>
         <author>
             <name>Ryan Miller</name>
         </author>
-        <link href="https://miller-bridge.com/bid-information.html"/>
-        <id>https://miller-bridge.com/bid-information.html</id>
+        <link href="https://miller-bridge-site.pages.dev/bid-information.html"/>
+        <id>https://miller-bridge-site.pages.dev/bid-information.html</id>
 
         <updated>2022-12-26T15:54:38-05:00</updated>
             <summary>
