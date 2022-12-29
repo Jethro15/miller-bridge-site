@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Miller Bridge",
     "description": "",
-    "home_page_url": "https://bridge.miller-it.com",
-    "feed_url": "https://bridge.miller-it.com/feed.json",
+    "home_page_url": "https://www.miller-bridge.com",
+    "feed_url": "https://www.miller-bridge.com/feed.json",
     "user_comment": "",
-    "icon": "https://bridge.miller-it.com/media/website/Black-Two-Color-LLC-Bg-Bold.png",
+    "icon": "https://www.miller-bridge.com/media/website/Black-Two-Color-LLC-Bg-Bold.png",
     "author": {
         "name": "Ryan Miller"
     },
     "items": [
         {
-            "id": "https://bridge.miller-it.com/bid-table.html",
-            "url": "https://bridge.miller-it.com/bid-table.html",
+            "id": "https://www.miller-bridge.com/bid-table.html",
+            "url": "https://www.miller-bridge.com/bid-table.html",
             "title": "Bid List",
             "summary": "Current Bids Contact: estimating@miller-bridge.com",
             "content_html": "<h3>Current Bids</h3>\n<p class=\"align-right\">Contact: estimating@miller-bridge.com</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"880\" height=\"514\" src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false\"></iframe></div>",

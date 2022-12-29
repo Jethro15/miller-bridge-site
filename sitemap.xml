@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://bridge.miller-it.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.miller-bridge.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://bridge.miller-it.com/</loc>
+<loc>https://www.miller-bridge.com/</loc>
 </url>
 <url>
-<loc>https://bridge.miller-it.com/bid-table.html</loc>
+<loc>https://www.miller-bridge.com/bid-table.html</loc>
 <lastmod>2022-12-29T12:25:07-05:00</lastmod>
 </url>
 </urlset>

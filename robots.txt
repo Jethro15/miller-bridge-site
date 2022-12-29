@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bridge.miller-it.com/sitemap.xml
+Sitemap: https://www.miller-bridge.com/sitemap.xml
