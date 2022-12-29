@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Miller Bridge",
+    "description": "",
+    "home_page_url": "https://miller-bridge.com",
+    "feed_url": "https://miller-bridge.com/feed.json",
+    "user_comment": "",
+    "icon": "https://miller-bridge.com/media/website/Black-Two-Color-LLC-Bg-Bold.png",
+    "author": {
+        "name": "Ryan Miller"
+    },
+    "items": [
+        {
+            "id": "https://miller-bridge.com/bid-information.html",
+            "url": "https://miller-bridge.com/bid-information.html",
+            "title": "Bid information",
+            "summary": "Current Bids Contact: estimating@miller-bridge.com Bid Date Item No. Location Description DBE Owner 01/01/22 00001 Lansing MDOT",
+            "content_html": "<h2>Current Bids</h2>\n<p class=\"align-right\">Contact: estimating@miller-bridge.com</p>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 208.672px; border-style: double;\" border=\"1\">\n<tbody>\n<tr style=\"height: 107.953px;\">\n<td style=\"width: 14.8359%; height: 107.953px;\">\n<p><strong>Bid Date</strong></p>\n</td>\n<td style=\"width: 13.98%; height: 107.953px;\">\n<p><strong>Item No.</strong></p>\n</td>\n<td style=\"width: 15.5492%; height: 107.953px;\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"width: 31.8117%; height: 107.953px;\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"width: 11.127%; height: 107.953px;\">\n<p><strong>DBE</strong></p>\n</td>\n<td style=\"width: 12.8388%; height: 107.953px;\">\n<p><strong>Owner</strong></p>\n</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 14.8359%; height: 50.3594px;\">01/01/22</td>\n<td style=\"width: 13.98%; height: 50.3594px;\">00001</td>\n<td style=\"width: 15.5492%; height: 50.3594px;\">Lansing</td>\n<td style=\"width: 31.8117%; height: 50.3594px;\"> </td>\n<td style=\"width: 11.127%; height: 50.3594px;\"> </td>\n<td style=\"width: 12.8388%; height: 50.3594px;\">MDOT</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 14.8359%; height: 50.3594px;\"> </td>\n<td style=\"width: 13.98%; height: 50.3594px;\"> </td>\n<td style=\"width: 15.5492%; height: 50.3594px;\"> </td>\n<td style=\"width: 31.8117%; height: 50.3594px;\"> </td>\n<td style=\"width: 11.127%; height: 50.3594px;\"> </td>\n<td style=\"width: 12.8388%; height: 50.3594px;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Ryan Miller"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-26T14:40:09-05:00",
+            "date_modified": "2022-12-26T15:54:38-05:00"
+        }
+    ]
+}
