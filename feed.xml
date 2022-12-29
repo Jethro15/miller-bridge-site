@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Miller Bridge</title>
-    <link href="https://miller-bridge-site.pages.dev/feed.xml" rel="self" />
-    <link href="https://miller-bridge-site.pages.dev" />
-    <updated>2022-12-29T12:16:53-05:00</updated>
+    <link href="https://bridge.miller-it.com/feed.xml" rel="self" />
+    <link href="https://bridge.miller-it.com" />
+    <updated>2022-12-29T12:25:07-05:00</updated>
     <author>
         <name>Ryan Miller</name>
     </author>
-    <id>https://miller-bridge-site.pages.dev</id>
+    <id>https://bridge.miller-it.com</id>
 
     <entry>
         <title>Bid List</title>
         <author>
             <name>Ryan Miller</name>
         </author>
-        <link href="https://miller-bridge-site.pages.dev/bid-table.html"/>
-        <id>https://miller-bridge-site.pages.dev/bid-table.html</id>
+        <link href="https://bridge.miller-it.com/bid-table.html"/>
+        <id>https://bridge.miller-it.com/bid-table.html</id>
 
-        <updated>2022-12-29T12:16:53-05:00</updated>
+        <updated>2022-12-29T12:25:07-05:00</updated>
             <summary>
                 <![CDATA[
                     Current Bids Contact: estimating@miller-bridge.com
@@ -28,67 +28,6 @@
                 <h3>Current Bids</h3>
 <p class="align-right">Contact: estimating@miller-bridge.com</p>
 <div class="post__iframe"><iframe loading="lazy" width="880" height="514" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bid information</title>
-        <author>
-            <name>Ryan Miller</name>
-        </author>
-        <link href="https://miller-bridge-site.pages.dev/bid-information.html"/>
-        <id>https://miller-bridge-site.pages.dev/bid-information.html</id>
-
-        <updated>2022-12-26T15:54:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Current Bids Contact: estimating@miller-bridge.com Bid Date Item No. Location Description DBE Owner 01/01/22 00001 Lansing MDOT
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Current Bids</h2>
-<p class="align-right">Contact: estimating@miller-bridge.com</p>
-<table class="align-center" style="border-collapse: collapse; width: 100%; height: 208.672px; border-style: double;" border="1">
-<tbody>
-<tr style="height: 107.953px;">
-<td style="width: 14.8359%; height: 107.953px;">
-<p><strong>Bid Date</strong></p>
-</td>
-<td style="width: 13.98%; height: 107.953px;">
-<p><strong>Item No.</strong></p>
-</td>
-<td style="width: 15.5492%; height: 107.953px;">
-<p><strong>Location</strong></p>
-</td>
-<td style="width: 31.8117%; height: 107.953px;">
-<p><strong>Description</strong></p>
-</td>
-<td style="width: 11.127%; height: 107.953px;">
-<p><strong>DBE</strong></p>
-</td>
-<td style="width: 12.8388%; height: 107.953px;">
-<p><strong>Owner</strong></p>
-</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td style="width: 14.8359%; height: 50.3594px;">01/01/22</td>
-<td style="width: 13.98%; height: 50.3594px;">00001</td>
-<td style="width: 15.5492%; height: 50.3594px;">Lansing</td>
-<td style="width: 31.8117%; height: 50.3594px;"> </td>
-<td style="width: 11.127%; height: 50.3594px;"> </td>
-<td style="width: 12.8388%; height: 50.3594px;">MDOT</td>
-</tr>
-<tr style="height: 50.3594px;">
-<td style="width: 14.8359%; height: 50.3594px;"> </td>
-<td style="width: 13.98%; height: 50.3594px;"> </td>
-<td style="width: 15.5492%; height: 50.3594px;"> </td>
-<td style="width: 31.8117%; height: 50.3594px;"> </td>
-<td style="width: 11.127%; height: 50.3594px;"> </td>
-<td style="width: 12.8388%; height: 50.3594px;"> </td>
-</tr>
-</tbody>
-</table>
             ]]>
         </content>
     </entry>
