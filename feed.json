@@ -15,14 +15,14 @@
             "url": "https://www.miller-bridge.com/bid-table.html",
             "title": "Bid List",
             "summary": "Current Bids Contact: estimating@miller-bridge.com",
-            "content_html": "<h3>Current Bids</h3>\n<p class=\"align-right\">Contact: estimating@miller-bridge.com</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"880\" height=\"514\" src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false\"></iframe></div>",
+            "content_html": "<h3>Current Bids</h3>\n<p class=\"align-right\">Contact: estimating@miller-bridge.com</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"700\" src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false\"></iframe></div>",
             "author": {
                 "name": "Ryan Miller"
             },
             "tags": [
             ],
             "date_published": "2022-12-26T15:14:24-05:00",
-            "date_modified": "2022-12-29T12:25:07-05:00"
+            "date_modified": "2023-01-04T14:48:47-05:00"
         }
     ]
 }
