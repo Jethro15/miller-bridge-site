@@ -3,7 +3,7 @@
     <title>Miller Bridge</title>
     <link href="https://www.miller-bridge.com/feed.xml" rel="self" />
     <link href="https://www.miller-bridge.com" />
-    <updated>2023-01-04T14:48:47-05:00</updated>
+    <updated>2023-01-04T14:56:19-05:00</updated>
     <author>
         <name>Ryan Miller</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Ryan Miller</name>
         </author>
-        <link href="https://www.miller-bridge.com/bid-table.html"/>
-        <id>https://www.miller-bridge.com/bid-table.html</id>
+        <link href="https://www.miller-bridge.com/bid-list/"/>
+        <id>https://www.miller-bridge.com/bid-list/</id>
 
-        <updated>2023-01-04T14:48:47-05:00</updated>
+        <updated>2023-01-04T14:56:19-05:00</updated>
             <summary>
                 <![CDATA[
                     Current Bids Contact: estimating@miller-bridge.com
