@@ -3,7 +3,7 @@
     <title>Miller Bridge</title>
     <link href="https://www.miller-bridge.com/feed.xml" rel="self" />
     <link href="https://www.miller-bridge.com" />
-    <updated>2023-01-30T12:41:03-05:00</updated>
+    <updated>2023-04-03T14:17:32-04:00</updated>
     <author>
         <name>Ryan Miller</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.miller-bridge.com/bid-list/"/>
         <id>https://www.miller-bridge.com/bid-list/</id>
 
-        <updated>2023-01-30T12:41:03-05:00</updated>
+        <updated>2023-04-03T14:17:32-04:00</updated>
             <summary>
                 <![CDATA[
                     Current Bids Contact: estimating@miller-bridge.com
@@ -27,7 +27,7 @@
             <![CDATA[
                 <h3>Current Bids</h3>
 <p class="align-right">Contact: estimating@miller-bridge.com</p>
-<div class="post__iframe"><iframe loading="lazy" width="800" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="350" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRHsHgGrtxc51Um2J3iKkvFDHCoZqtIUAg9vZOQK8t6SYWhGHje9uGIATFLyUg6KuLsWhiYs69iHbvt/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe></div>
             ]]>
         </content>
     </entry>
